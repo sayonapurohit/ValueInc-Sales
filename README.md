@@ -5,7 +5,7 @@ Value Inc is a retail store that sells household items all over the world by bul
 He also has no idea of the monthly cost, profit and top selling products. 
 He wants a dashboard on this and says the data is currently stored in an excel sheet.
 
-### Date File: 
+### Data File: 
 [CSV File](https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view?usp=sharing) (transactions.csv) – 153 MB file
 
 
